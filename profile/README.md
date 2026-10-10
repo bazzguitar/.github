@@ -1,8 +1,8 @@
 # Baz Technologies
-!(https://img.shields.io/badge/frutiger-aero-green)[Frutiger Aero]
+![Frutiger Aero](https://img.shields.io/badge/frutiger-aero-green)
 <br>
-!(https://img.shields.io/badge/good_old-PHP-blue)[Good old PHP]
+![Good old PHP](https://img.shields.io/badge/good_old-PHP-blue)
 <br>
-!(https://img.shields.io/badge/HTML-5-green)[HTML]
+![HTML](https://img.shields.io/badge/HTML-5-green)
 <br>
-!(https://img.shields.io/badge/CSS-3-orangered)[CSS]
+![CSS](https://img.shields.io/badge/CSS-3-orangered)
